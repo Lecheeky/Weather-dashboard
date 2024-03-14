@@ -57,8 +57,10 @@ aside button{
     margin-top: -170px;
     height: 220px;
     width: 98%;
-    border: solid 3px black;
+    border: solid 3px rgb(131, 1, 1);
     padding-left: 15px;
+    background-color: rgb(253, 89, 89);
+
 }
 
 .today h1{
@@ -68,6 +70,7 @@ aside button{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-bottom: 0px;
     height: 50px;
+    color: white;
 }
 
 .today img{
@@ -78,6 +81,7 @@ aside button{
 .today p{
     font-size: 17px;
     padding-top: 5px;
+    color: white;
 }
 
 h3{
@@ -103,7 +107,7 @@ h3{
 #forecast div{
     width: 250px;
     height: 100%;
-    background-color: rgb(252, 25, 25);
+    background-color: rgb(85, 1, 1);
 }
 #forecast h2{
     color: white;
