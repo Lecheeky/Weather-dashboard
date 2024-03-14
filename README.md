@@ -1,6 +1,12 @@
 # Weather Dashboard 
 Welcome to Weather Dashboard, a simple and efficient way to check the weather forecast for your desired city.
 
+## Table of Contents
+- [Features](#features)
+- [Usage](#usage)
+- [How to Run](#how-to-run)
+- [License](#license)
+
 ## Features
 Search Functionality: Input a city name and hit the search button to retrieve the weather forecast.
 
@@ -30,3 +36,10 @@ Weather Cards: Each weather card displays the following information:
 5. If you want to check the weather for a previously searched city, simply click on its corresponding button below the search area.
 
 ## How to run
+```bash
+git clone https://github.com/Lecheeky/Weather-dashboard.git
+```
+
+# license
+
+This project is licensed under the MIT License.
