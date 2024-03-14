@@ -50,3 +50,32 @@ aside button{
     margin-top: 18px;
     margin-left: 5px;
 }
+
+.today{
+    position: relative;
+    left: 500px;
+    margin-top: -170px;
+    height: 220px;
+    width: 98%;
+    border: solid 3px black;
+    padding-left: 15px;
+}
+
+.today h1{
+    font-size: 35px;
+    margin-top: 10px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 0px;
+    height: 50px;
+}
+
+.today img{
+    position: relative;
+    top: -5px;
+}
+
+.today p{
+    font-size: 17px;
+    padding-top: 5px;
+}
