@@ -88,3 +88,38 @@ h3{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     z-index: 3;
 }
+
+#forecast{
+    display: flex;
+    flex-direction: c;
+    justify-content: space-between;
+    position: absolute;
+    top: 430px;
+    margin-left: 500px;
+    width: 1400px;
+    height: 400px;
+}
+
+#forecast div{
+    width: 250px;
+    height: 100%;
+    background-color: rgb(252, 25, 25);
+}
+#forecast h2{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 0;
+}
+
+#forecast img{
+    display: flex;
+    margin-left: 74px;
+}
+
+#forecast p{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
