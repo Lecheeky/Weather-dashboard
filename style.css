@@ -123,3 +123,18 @@ h3{
     color: white;
 }
 
+#history{
+    position: absolute;
+    top: 300px;
+    width: 470px;
+    left: 10px;
+    height:65%;
+}
+
+#history button{
+    background-color: rgb(129, 18, 18);
+    width: 100%;
+    margin: 0;
+    margin-top: 10px;
+}
+
