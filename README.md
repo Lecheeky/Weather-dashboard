@@ -1,5 +1,5 @@
 # Weather Dashboard 
-Welcome to Weather Dashboard, a simple and efficient way to check the weather forecast for your desired city.
+Welcome to Weather Dashboard, a simple and efficient way to check the weather forecast for your desired city. This was made possible by fetching data from weather api
 
 ![weather-dashboard1](https://github.com/Lecheeky/Weather-dashboard/assets/140285251/2ce99b94-9834-40ee-ad10-2e600821fce3)
 
